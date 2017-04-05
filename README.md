@@ -1,14 +1,14 @@
-# This plugin is no longer maintained - new maintainer is welcome!
+## New Maintainer
 
-Sadly we don't have the time to maintain this plugin. We recommend using the iBeacon plugin by Peter Metz, which works nicely with Estimote beacons. This plugin can be found here: https://github.com/petermetz/cordova-plugin-ibeacon
+Version 0.8.2 contains the latest version of Estimote SDK for iOS and Android. This version also includes support for Nearables on Android, currently we are only supporting the startRanging method however we should have additional nearable methods available in the coming days. We are working through the existing issues on the repo, and will begin resolving them in the coming days. Please make sure to helpout with pull requests as much as possible.
 
-If you are interested in taking over maintanance/ownership of the plugin, please contact us at info@evothings.com
+Thanks, Linuxs
 
 ## About the Estimote Cordova/PhoneGap plugin
 
 This plugin makes it easy to develop Cordova apps for Estimote Beacons and Estimote Stickers. Use JavaScript and HTML to develop stunning apps that take advantage of the capabilities of Estimote Beacons and Stickers.
 
-![Estimote Beacons](http://evomedia.evothings.com/2014/09/estimote-beacons-group-small.jpg)
+![Estimote Beacons](http://estimote.com/assets/gfx/press/branding/Estimote-Logo-BW-Horizontal.c457034e.png)
 
 ## Updated API
 

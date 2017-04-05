@@ -45,7 +45,7 @@ The plugin currently supports:
 * Ranging for beacons (iOS and Android)
 * Scanning for beacons using CoreBluetooth (iOS)
 * Requesting authorization for ranging/monitoring beacons on iOS
-* Ranging for nearables (Estimote Stickers) (iOS)
+* Ranging for nearables (Estimote Stickers) (iOS and Android)
 * Monitoring for nearables (Estimote Stickers) (iOS)
 * Monitoring for nearable triggers (Estimote Stickers) (iOS)
 * Using Secure Beacons (iOS)

@@ -1,3 +1,4 @@
+cordova.define("cordova-plugin-estimote.EstimoteBeacons", function(require, exports, module) {
 //
 // Use jsdoc to generate documentation.
 //
@@ -2056,3 +2057,5 @@ function checkExecParamsRegion(region)
 
 	return true;
 }
+
+});
